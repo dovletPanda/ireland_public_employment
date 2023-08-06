@@ -1,0 +1,672 @@
+Quarter,sector,Employed
+2008Q1,Civil service,41700.0
+2008Q1,Defence,11200.0
+2008Q1,Garda Siochana,14900.0
+2008Q1,Education,116100.0
+2008Q1,Regional bodies,38900.0
+2008Q1,Health,137800.0
+2008Q1,Semi-State companies,56400.0
+2008Q1,Commercial Semi-State companies,44900.0
+2008Q1,Non commercial Semi-State companies,11500.0
+2008Q1,Total Public Sector including Semi State bodies,417000.0
+2008Q1,Total Public Sector excluding Semi State bodies,360600.0
+2008Q2,Civil service,42700.0
+2008Q2,Defence,11100.0
+2008Q2,Garda Siochana,15100.0
+2008Q2,Education,117400.0
+2008Q2,Regional bodies,40100.0
+2008Q2,Health,138000.0
+2008Q2,Semi-State companies,56900.0
+2008Q2,Commercial Semi-State companies,45100.0
+2008Q2,Non commercial Semi-State companies,11800.0
+2008Q2,Total Public Sector including Semi State bodies,421400.0
+2008Q2,Total Public Sector excluding Semi State bodies,364500.0
+2008Q3,Civil service,43000.0
+2008Q3,Defence,11200.0
+2008Q3,Garda Siochana,14200.0
+2008Q3,Education,113200.0
+2008Q3,Regional bodies,40700.0
+2008Q3,Health,137800.0
+2008Q3,Semi-State companies,57000.0
+2008Q3,Commercial Semi-State companies,45300.0
+2008Q3,Non commercial Semi-State companies,11700.0
+2008Q3,Total Public Sector including Semi State bodies,417100.0
+2008Q3,Total Public Sector excluding Semi State bodies,360100.0
+2008Q4,Civil service,42700.0
+2008Q4,Defence,11200.0
+2008Q4,Garda Siochana,15300.0
+2008Q4,Education,120500.0
+2008Q4,Regional bodies,40200.0
+2008Q4,Health,139600.0
+2008Q4,Semi-State companies,57800.0
+2008Q4,Commercial Semi-State companies,46000.0
+2008Q4,Non commercial Semi-State companies,11800.0
+2008Q4,Total Public Sector including Semi State bodies,427300.0
+2008Q4,Total Public Sector excluding Semi State bodies,369500.0
+2009Q1,Civil service,42200.0
+2009Q1,Defence,11200.0
+2009Q1,Garda Siochana,14600.0
+2009Q1,Education,120200.0
+2009Q1,Regional bodies,38400.0
+2009Q1,Health,137700.0
+2009Q1,Semi-State companies,56900.0
+2009Q1,Commercial Semi-State companies,45000.0
+2009Q1,Non commercial Semi-State companies,11900.0
+2009Q1,Total Public Sector including Semi State bodies,421200.0
+2009Q1,Total Public Sector excluding Semi State bodies,364300.0
+2009Q2,Civil service,42100.0
+2009Q2,Defence,11100.0
+2009Q2,Garda Siochana,14700.0
+2009Q2,Education,118300.0
+2009Q2,Regional bodies,38400.0
+2009Q2,Health,137100.0
+2009Q2,Semi-State companies,56100.0
+2009Q2,Commercial Semi-State companies,44400.0
+2009Q2,Non commercial Semi-State companies,11700.0
+2009Q2,Total Public Sector including Semi State bodies,417700.0
+2009Q2,Total Public Sector excluding Semi State bodies,361600.0
+2009Q3,Civil service,41600.0
+2009Q3,Defence,10900.0
+2009Q3,Garda Siochana,15100.0
+2009Q3,Education,109100.0
+2009Q3,Regional bodies,38300.0
+2009Q3,Health,138200.0
+2009Q3,Semi-State companies,56300.0
+2009Q3,Commercial Semi-State companies,45000.0
+2009Q3,Non commercial Semi-State companies,11300.0
+2009Q3,Total Public Sector including Semi State bodies,409500.0
+2009Q3,Total Public Sector excluding Semi State bodies,353200.0
+2009Q4,Civil service,40900.0
+2009Q4,Defence,10800.0
+2009Q4,Garda Siochana,14800.0
+2009Q4,Education,113100.0
+2009Q4,Regional bodies,37700.0
+2009Q4,Health,137300.0
+2009Q4,Semi-State companies,55200.0
+2009Q4,Commercial Semi-State companies,44200.0
+2009Q4,Non commercial Semi-State companies,11000.0
+2009Q4,Total Public Sector including Semi State bodies,409700.0
+2009Q4,Total Public Sector excluding Semi State bodies,354500.0
+2010Q1,Civil service,40100.0
+2010Q1,Defence,10700.0
+2010Q1,Garda Siochana,14700.0
+2010Q1,Education,113800.0
+2010Q1,Regional bodies,36700.0
+2010Q1,Health,137400.0
+2010Q1,Semi-State companies,53600.0
+2010Q1,Commercial Semi-State companies,42200.0
+2010Q1,Non commercial Semi-State companies,11400.0
+2010Q1,Total Public Sector including Semi State bodies,406800.0
+2010Q1,Total Public Sector excluding Semi State bodies,353200.0
+2010Q2,Civil service,40100.0
+2010Q2,Defence,10600.0
+2010Q2,Garda Siochana,14600.0
+2010Q2,Education,115800.0
+2010Q2,Regional bodies,36500.0
+2010Q2,Health,136900.0
+2010Q2,Semi-State companies,55100.0
+2010Q2,Commercial Semi-State companies,43700.0
+2010Q2,Non commercial Semi-State companies,11300.0
+2010Q2,Total Public Sector including Semi State bodies,409500.0
+2010Q2,Total Public Sector excluding Semi State bodies,354400.0
+2010Q3,Civil service,40000.0
+2010Q3,Defence,10400.0
+2010Q3,Garda Siochana,14600.0
+2010Q3,Education,111300.0
+2010Q3,Regional bodies,37300.0
+2010Q3,Health,135900.0
+2010Q3,Semi-State companies,55000.0
+2010Q3,Commercial Semi-State companies,43800.0
+2010Q3,Non commercial Semi-State companies,11200.0
+2010Q3,Total Public Sector including Semi State bodies,404600.0
+2010Q3,Total Public Sector excluding Semi State bodies,349600.0
+2010Q4,Civil service,39600.0
+2010Q4,Defence,10300.0
+2010Q4,Garda Siochana,14400.0
+2010Q4,Education,115000.0
+2010Q4,Regional bodies,35200.0
+2010Q4,Health,134200.0
+2010Q4,Semi-State companies,55300.0
+2010Q4,Commercial Semi-State companies,44200.0
+2010Q4,Non commercial Semi-State companies,11100.0
+2010Q4,Total Public Sector including Semi State bodies,404100.0
+2010Q4,Total Public Sector excluding Semi State bodies,348700.0
+2011Q1,Civil service,44500.0
+2011Q1,Defence,10300.0
+2011Q1,Garda Siochana,14300.0
+2011Q1,Education,117700.0
+2011Q1,Regional bodies,34600.0
+2011Q1,Health,132900.0
+2011Q1,Semi-State companies,55100.0
+2011Q1,Commercial Semi-State companies,44100.0
+2011Q1,Non commercial Semi-State companies,11100.0
+2011Q1,Total Public Sector including Semi State bodies,409400.0
+2011Q1,Total Public Sector excluding Semi State bodies,354300.0
+2011Q2,Civil service,45000.0
+2011Q2,Defence,10300.0
+2011Q2,Garda Siochana,14200.0
+2011Q2,Education,117500.0
+2011Q2,Regional bodies,34800.0
+2011Q2,Health,132000.0
+2011Q2,Semi-State companies,53500.0
+2011Q2,Commercial Semi-State companies,42900.0
+2011Q2,Non commercial Semi-State companies,10600.0
+2011Q2,Total Public Sector including Semi State bodies,407200.0
+2011Q2,Total Public Sector excluding Semi State bodies,353700.0
+2011Q3,Civil service,39900.0
+2011Q3,Defence,10200.0
+2011Q3,Garda Siochana,14100.0
+2011Q3,Education,111100.0
+2011Q3,Regional bodies,35100.0
+2011Q3,Health,131100.0
+2011Q3,Semi-State companies,53300.0
+2011Q3,Commercial Semi-State companies,42300.0
+2011Q3,Non commercial Semi-State companies,11000.0
+2011Q3,Total Public Sector including Semi State bodies,394700.0
+2011Q3,Total Public Sector excluding Semi State bodies,341400.0
+2011Q4,Civil service,39700.0
+2011Q4,Defence,10100.0
+2011Q4,Garda Siochana,13900.0
+2011Q4,Education,111300.0
+2011Q4,Regional bodies,35000.0
+2011Q4,Health,128300.0
+2011Q4,Semi-State companies,53300.0
+2011Q4,Commercial Semi-State companies,42600.0
+2011Q4,Non commercial Semi-State companies,10800.0
+2011Q4,Total Public Sector including Semi State bodies,391600.0
+2011Q4,Total Public Sector excluding Semi State bodies,338300.0
+2012Q1,Civil service,39700.0
+2012Q1,Defence,9800.0
+2012Q1,Garda Siochana,13700.0
+2012Q1,Education,111900.0
+2012Q1,Regional bodies,33900.0
+2012Q1,Health,128800.0
+2012Q1,Semi-State companies,51400.0
+2012Q1,Commercial Semi-State companies,41300.0
+2012Q1,Non commercial Semi-State companies,10100.0
+2012Q1,Total Public Sector including Semi State bodies,389200.0
+2012Q1,Total Public Sector excluding Semi State bodies,337700.0
+2012Q2,Civil service,39300.0
+2012Q2,Defence,9500.0
+2012Q2,Garda Siochana,13500.0
+2012Q2,Education,109400.0
+2012Q2,Regional bodies,34100.0
+2012Q2,Health,126100.0
+2012Q2,Semi-State companies,51500.0
+2012Q2,Commercial Semi-State companies,41200.0
+2012Q2,Non commercial Semi-State companies,10300.0
+2012Q2,Total Public Sector including Semi State bodies,383400.0
+2012Q2,Total Public Sector excluding Semi State bodies,331900.0
+2012Q3,Civil service,39500.0
+2012Q3,Defence,9400.0
+2012Q3,Garda Siochana,13400.0
+2012Q3,Education,105800.0
+2012Q3,Regional bodies,34400.0
+2012Q3,Health,125800.0
+2012Q3,Semi-State companies,51200.0
+2012Q3,Commercial Semi-State companies,41100.0
+2012Q3,Non commercial Semi-State companies,10100.0
+2012Q3,Total Public Sector including Semi State bodies,379600.0
+2012Q3,Total Public Sector excluding Semi State bodies,328400.0
+2012Q4,Civil service,39400.0
+2012Q4,Defence,9600.0
+2012Q4,Garda Siochana,13400.0
+2012Q4,Education,111300.0
+2012Q4,Regional bodies,34000.0
+2012Q4,Health,123200.0
+2012Q4,Semi-State companies,50900.0
+2012Q4,Commercial Semi-State companies,40600.0
+2012Q4,Non commercial Semi-State companies,10300.0
+2012Q4,Total Public Sector including Semi State bodies,381800.0
+2012Q4,Total Public Sector excluding Semi State bodies,330900.0
+2013Q1,Civil service,39200.0
+2013Q1,Defence,9800.0
+2013Q1,Garda Siochana,13300.0
+2013Q1,Education,110300.0
+2013Q1,Regional bodies,32100.0
+2013Q1,Health,123600.0
+2013Q1,Semi-State companies,49700.0
+2013Q1,Commercial Semi-State companies,39700.0
+2013Q1,Non commercial Semi-State companies,9900.0
+2013Q1,Total Public Sector including Semi State bodies,378000.0
+2013Q1,Total Public Sector excluding Semi State bodies,328300.0
+2013Q2,Civil service,39400.0
+2013Q2,Defence,9700.0
+2013Q2,Garda Siochana,13200.0
+2013Q2,Education,111000.0
+2013Q2,Regional bodies,32100.0
+2013Q2,Health,123600.0
+2013Q2,Semi-State companies,49200.0
+2013Q2,Commercial Semi-State companies,39400.0
+2013Q2,Non commercial Semi-State companies,9700.0
+2013Q2,Total Public Sector including Semi State bodies,378200.0
+2013Q2,Total Public Sector excluding Semi State bodies,329100.0
+2013Q3,Civil service,39300.0
+2013Q3,Defence,9600.0
+2013Q3,Garda Siochana,13100.0
+2013Q3,Education,107900.0
+2013Q3,Regional bodies,33500.0
+2013Q3,Health,123600.0
+2013Q3,Semi-State companies,49300.0
+2013Q3,Commercial Semi-State companies,39600.0
+2013Q3,Non commercial Semi-State companies,9700.0
+2013Q3,Total Public Sector including Semi State bodies,376200.0
+2013Q3,Total Public Sector excluding Semi State bodies,326900.0
+2013Q4,Civil service,38900.0
+2013Q4,Defence,9700.0
+2013Q4,Garda Siochana,13000.0
+2013Q4,Education,111000.0
+2013Q4,Regional bodies,33000.0
+2013Q4,Health,122000.0
+2013Q4,Semi-State companies,48900.0
+2013Q4,Commercial Semi-State companies,39200.0
+2013Q4,Non commercial Semi-State companies,9600.0
+2013Q4,Total Public Sector including Semi State bodies,376500.0
+2013Q4,Total Public Sector excluding Semi State bodies,327700.0
+2014Q1,Civil service,38700.0
+2014Q1,Defence,9700.0
+2014Q1,Garda Siochana,13000.0
+2014Q1,Education,111200.0
+2014Q1,Regional bodies,33000.0
+2014Q1,Health,118700.0
+2014Q1,Semi-State companies,51200.0
+2014Q1,Commercial Semi-State companies,38600.0
+2014Q1,Non commercial Semi-State companies,12600.0
+2014Q1,Total Public Sector including Semi State bodies,375600.0
+2014Q1,Total Public Sector excluding Semi State bodies,324400.0
+2014Q2,Civil service,38800.0
+2014Q2,Defence,9600.0
+2014Q2,Garda Siochana,12900.0
+2014Q2,Education,110100.0
+2014Q2,Regional bodies,32700.0
+2014Q2,Health,118400.0
+2014Q2,Semi-State companies,51400.0
+2014Q2,Commercial Semi-State companies,38800.0
+2014Q2,Non commercial Semi-State companies,12700.0
+2014Q2,Total Public Sector including Semi State bodies,373900.0
+2014Q2,Total Public Sector excluding Semi State bodies,322500.0
+2014Q3,Civil service,38500.0
+2014Q3,Defence,9600.0
+2014Q3,Garda Siochana,12800.0
+2014Q3,Education,107700.0
+2014Q3,Regional bodies,32500.0
+2014Q3,Health,119000.0
+2014Q3,Semi-State companies,51700.0
+2014Q3,Commercial Semi-State companies,39200.0
+2014Q3,Non commercial Semi-State companies,12500.0
+2014Q3,Total Public Sector including Semi State bodies,371900.0
+2014Q3,Total Public Sector excluding Semi State bodies,320200.0
+2014Q4,Civil service,38200.0
+2014Q4,Defence,9800.0
+2014Q4,Garda Siochana,12800.0
+2014Q4,Education,110800.0
+2014Q4,Regional bodies,32200.0
+2014Q4,Health,118600.0
+2014Q4,Semi-State companies,51700.0
+2014Q4,Commercial Semi-State companies,39300.0
+2014Q4,Non commercial Semi-State companies,12400.0
+2014Q4,Total Public Sector including Semi State bodies,374000.0
+2014Q4,Total Public Sector excluding Semi State bodies,322300.0
+2015Q1,Civil service,38100.0
+2015Q1,Defence,9700.0
+2015Q1,Garda Siochana,12800.0
+2015Q1,Education,110900.0
+2015Q1,Regional bodies,32000.0
+2015Q1,Health,119600.0
+2015Q1,Semi-State companies,51400.0
+2015Q1,Commercial Semi-State companies,39200.0
+2015Q1,Non commercial Semi-State companies,12200.0
+2015Q1,Total Public Sector including Semi State bodies,374500.0
+2015Q1,Total Public Sector excluding Semi State bodies,323100.0
+2015Q2,Civil service,38300.0
+2015Q2,Defence,9600.0
+2015Q2,Garda Siochana,12700.0
+2015Q2,Education,111500.0
+2015Q2,Regional bodies,33000.0
+2015Q2,Health,120700.0
+2015Q2,Semi-State companies,50400.0
+2015Q2,Commercial Semi-State companies,38100.0
+2015Q2,Non commercial Semi-State companies,12300.0
+2015Q2,Total Public Sector including Semi State bodies,376200.0
+2015Q2,Total Public Sector excluding Semi State bodies,325800.0
+2015Q3,Civil service,38300.0
+2015Q3,Defence,9500.0
+2015Q3,Garda Siochana,12700.0
+2015Q3,Education,108200.0
+2015Q3,Regional bodies,33000.0
+2015Q3,Health,121900.0
+2015Q3,Semi-State companies,52700.0
+2015Q3,Commercial Semi-State companies,40300.0
+2015Q3,Non commercial Semi-State companies,12400.0
+2015Q3,Total Public Sector including Semi State bodies,376300.0
+2015Q3,Total Public Sector excluding Semi State bodies,323600.0
+2015Q4,Civil service,38100.0
+2015Q4,Defence,9500.0
+2015Q4,Garda Siochana,12800.0
+2015Q4,Education,111700.0
+2015Q4,Regional bodies,32900.0
+2015Q4,Health,122200.0
+2015Q4,Semi-State companies,52400.0
+2015Q4,Commercial Semi-State companies,40400.0
+2015Q4,Non commercial Semi-State companies,12000.0
+2015Q4,Total Public Sector including Semi State bodies,379700.0
+2015Q4,Total Public Sector excluding Semi State bodies,327300.0
+2016Q1,Civil service,43600.0
+2016Q1,Defence,9500.0
+2016Q1,Garda Siochana,12800.0
+2016Q1,Education,112000.0
+2016Q1,Regional bodies,32700.0
+2016Q1,Health,123100.0
+2016Q1,Semi-State companies,52800.0
+2016Q1,Commercial Semi-State companies,40700.0
+2016Q1,Non commercial Semi-State companies,12100.0
+2016Q1,Total Public Sector including Semi State bodies,386600.0
+2016Q1,Total Public Sector excluding Semi State bodies,333800.0
+2016Q2,Civil service,44200.0
+2016Q2,Defence,9500.0
+2016Q2,Garda Siochana,12800.0
+2016Q2,Education,113100.0
+2016Q2,Regional bodies,33100.0
+2016Q2,Health,124000.0
+2016Q2,Semi-State companies,52900.0
+2016Q2,Commercial Semi-State companies,40500.0
+2016Q2,Non commercial Semi-State companies,12300.0
+2016Q2,Total Public Sector including Semi State bodies,389800.0
+2016Q2,Total Public Sector excluding Semi State bodies,336900.0
+2016Q3,Civil service,39900.0
+2016Q3,Defence,9400.0
+2016Q3,Garda Siochana,13000.0
+2016Q3,Education,108600.0
+2016Q3,Regional bodies,33200.0
+2016Q3,Health,125600.0
+2016Q3,Semi-State companies,53100.0
+2016Q3,Commercial Semi-State companies,40600.0
+2016Q3,Non commercial Semi-State companies,12500.0
+2016Q3,Total Public Sector including Semi State bodies,382900.0
+2016Q3,Total Public Sector excluding Semi State bodies,329800.0
+2016Q4,Civil service,39900.0
+2016Q4,Defence,9500.0
+2016Q4,Garda Siochana,13200.0
+2016Q4,Education,112000.0
+2016Q4,Regional bodies,33100.0
+2016Q4,Health,125600.0
+2016Q4,Semi-State companies,53100.0
+2016Q4,Commercial Semi-State companies,40600.0
+2016Q4,Non commercial Semi-State companies,12500.0
+2016Q4,Total Public Sector including Semi State bodies,386300.0
+2016Q4,Total Public Sector excluding Semi State bodies,333300.0
+2017Q1,Civil service,39900.0
+2017Q1,Defence,9500.0
+2017Q1,Garda Siochana,13300.0
+2017Q1,Education,112800.0
+2017Q1,Regional bodies,33000.0
+2017Q1,Health,127500.0
+2017Q1,Semi-State companies,53600.0
+2017Q1,Commercial Semi-State companies,41000.0
+2017Q1,Non commercial Semi-State companies,12600.0
+2017Q1,Total Public Sector including Semi State bodies,389600.0
+2017Q1,Total Public Sector excluding Semi State bodies,336100.0
+2017Q2,Civil service,40300.0
+2017Q2,Defence,9400.0
+2017Q2,Garda Siochana,13500.0
+2017Q2,Education,114600.0
+2017Q2,Regional bodies,33400.0
+2017Q2,Health,128500.0
+2017Q2,Semi-State companies,54000.0
+2017Q2,Commercial Semi-State companies,41100.0
+2017Q2,Non commercial Semi-State companies,12800.0
+2017Q2,Total Public Sector including Semi State bodies,393700.0
+2017Q2,Total Public Sector excluding Semi State bodies,339700.0
+2017Q3,Civil service,40500.0
+2017Q3,Defence,9400.0
+2017Q3,Garda Siochana,13700.0
+2017Q3,Education,111300.0
+2017Q3,Regional bodies,33400.0
+2017Q3,Health,129700.0
+2017Q3,Semi-State companies,54400.0
+2017Q3,Commercial Semi-State companies,41500.0
+2017Q3,Non commercial Semi-State companies,12900.0
+2017Q3,Total Public Sector including Semi State bodies,392300.0
+2017Q3,Total Public Sector excluding Semi State bodies,337900.0
+2017Q4,Civil service,41000.0
+2017Q4,Defence,9400.0
+2017Q4,Garda Siochana,13800.0
+2017Q4,Education,113900.0
+2017Q4,Regional bodies,33400.0
+2017Q4,Health,129900.0
+2017Q4,Semi-State companies,54500.0
+2017Q4,Commercial Semi-State companies,41500.0
+2017Q4,Non commercial Semi-State companies,13100.0
+2017Q4,Total Public Sector including Semi State bodies,396000.0
+2017Q4,Total Public Sector excluding Semi State bodies,341500.0
+2018Q1,Civil service,41000.0
+2018Q1,Defence,9400.0
+2018Q1,Garda Siochana,14000.0
+2018Q1,Education,114500.0
+2018Q1,Regional bodies,33600.0
+2018Q1,Health,131100.0
+2018Q1,Semi-State companies,53900.0
+2018Q1,Commercial Semi-State companies,41000.0
+2018Q1,Non commercial Semi-State companies,12900.0
+2018Q1,Total Public Sector including Semi State bodies,397500.0
+2018Q1,Total Public Sector excluding Semi State bodies,343600.0
+2018Q2,Civil service,41700.0
+2018Q2,Defence,9300.0
+2018Q2,Garda Siochana,14100.0
+2018Q2,Education,115400.0
+2018Q2,Regional bodies,33800.0
+2018Q2,Health,132400.0
+2018Q2,Semi-State companies,54200.0
+2018Q2,Commercial Semi-State companies,40800.0
+2018Q2,Non commercial Semi-State companies,13400.0
+2018Q2,Total Public Sector including Semi State bodies,400900.0
+2018Q2,Total Public Sector excluding Semi State bodies,346700.0
+2018Q3,Civil service,41700.0
+2018Q3,Defence,9300.0
+2018Q3,Garda Siochana,14200.0
+2018Q3,Education,112100.0
+2018Q3,Regional bodies,34300.0
+2018Q3,Health,133300.0
+2018Q3,Semi-State companies,54900.0
+2018Q3,Commercial Semi-State companies,41100.0
+2018Q3,Non commercial Semi-State companies,13900.0
+2018Q3,Total Public Sector including Semi State bodies,399800.0
+2018Q3,Total Public Sector excluding Semi State bodies,344900.0
+2018Q4,Civil service,41900.0
+2018Q4,Defence,9300.0
+2018Q4,Garda Siochana,14400.0
+2018Q4,Education,114000.0
+2018Q4,Regional bodies,34200.0
+2018Q4,Health,134000.0
+2018Q4,Semi-State companies,55500.0
+2018Q4,Commercial Semi-State companies,41600.0
+2018Q4,Non commercial Semi-State companies,13800.0
+2018Q4,Total Public Sector including Semi State bodies,403300.0
+2018Q4,Total Public Sector excluding Semi State bodies,347800.0
+2019Q1,Civil service,42300.0
+2019Q1,Defence,9300.0
+2019Q1,Garda Siochana,14300.0
+2019Q1,Education,114100.0
+2019Q1,Regional bodies,34500.0
+2019Q1,Health,133800.0
+2019Q1,Semi-State companies,55400.0
+2019Q1,Commercial Semi-State companies,41300.0
+2019Q1,Non commercial Semi-State companies,14200.0
+2019Q1,Total Public Sector including Semi State bodies,403800.0
+2019Q1,Total Public Sector excluding Semi State bodies,348300.0
+2019Q2,Civil service,43500.0
+2019Q2,Defence,9100.0
+2019Q2,Garda Siochana,14400.0
+2019Q2,Education,115000.0
+2019Q2,Regional bodies,34500.0
+2019Q2,Health,135800.0
+2019Q2,Semi-State companies,55600.0
+2019Q2,Commercial Semi-State companies,41500.0
+2019Q2,Non commercial Semi-State companies,14100.0
+2019Q2,Total Public Sector including Semi State bodies,408000.0
+2019Q2,Total Public Sector excluding Semi State bodies,352400.0
+2019Q3,Civil service,43500.0
+2019Q3,Defence,9000.0
+2019Q3,Garda Siochana,14500.0
+2019Q3,Education,112000.0
+2019Q3,Regional bodies,35100.0
+2019Q3,Health,137100.0
+2019Q3,Semi-State companies,56400.0
+2019Q3,Commercial Semi-State companies,41900.0
+2019Q3,Non commercial Semi-State companies,14500.0
+2019Q3,Total Public Sector including Semi State bodies,407700.0
+2019Q3,Total Public Sector excluding Semi State bodies,351300.0
+2019Q4,Civil service,44400.0
+2019Q4,Defence,9100.0
+2019Q4,Garda Siochana,14700.0
+2019Q4,Education,115300.0
+2019Q4,Regional bodies,34900.0
+2019Q4,Health,137500.0
+2019Q4,Semi-State companies,56200.0
+2019Q4,Commercial Semi-State companies,41600.0
+2019Q4,Non commercial Semi-State companies,14600.0
+2019Q4,Total Public Sector including Semi State bodies,412000.0
+2019Q4,Total Public Sector excluding Semi State bodies,355700.0
+2020Q1,Civil service,44400.0
+2020Q1,Defence,9000.0
+2020Q1,Garda Siochana,14600.0
+2020Q1,Education,114500.0
+2020Q1,Regional bodies,35100.0
+2020Q1,Health,138100.0
+2020Q1,Semi-State companies,56900.0
+2020Q1,Commercial Semi-State companies,42000.0
+2020Q1,Non commercial Semi-State companies,14900.0
+2020Q1,Total Public Sector including Semi State bodies,412600.0
+2020Q1,Total Public Sector excluding Semi State bodies,355700.0
+2020Q2,Civil service,44600.0
+2020Q2,Defence,8900.0
+2020Q2,Garda Siochana,14700.0
+2020Q2,Education,112200.0
+2020Q2,Regional bodies,35000.0
+2020Q2,Health,127600.0
+2020Q2,Semi-State companies,56200.0
+2020Q2,Commercial Semi-State companies,41400.0
+2020Q2,Non commercial Semi-State companies,14800.0
+2020Q2,Total Public Sector including Semi State bodies,399100.0
+2020Q2,Total Public Sector excluding Semi State bodies,342900.0
+2020Q3,Civil service,44700.0
+2020Q3,Defence,8800.0
+2020Q3,Garda Siochana,14700.0
+2020Q3,Education,109200.0
+2020Q3,Regional bodies,35200.0
+2020Q3,Health,138800.0
+2020Q3,Semi-State companies,56300.0
+2020Q3,Commercial Semi-State companies,41300.0
+2020Q3,Non commercial Semi-State companies,15000.0
+2020Q3,Total Public Sector including Semi State bodies,407700.0
+2020Q3,Total Public Sector excluding Semi State bodies,351400.0
+2020Q4,Civil service,45200.0
+2020Q4,Defence,9000.0
+2020Q4,Garda Siochana,14600.0
+2020Q4,Education,112000.0
+2020Q4,Regional bodies,34900.0
+2020Q4,Health,142200.0
+2020Q4,Semi-State companies,57200.0
+2020Q4,Commercial Semi-State companies,42100.0
+2020Q4,Non commercial Semi-State companies,15100.0
+2020Q4,Total Public Sector including Semi State bodies,415000.0
+2020Q4,Total Public Sector excluding Semi State bodies,357800.0
+2021Q1,Civil service,45100.0
+2021Q1,Defence,9000.0
+2021Q1,Garda Siochana,14500.0
+2021Q1,Education,111900.0
+2021Q1,Regional bodies,34800.0
+2021Q1,Health,144600.0
+2021Q1,Semi-State companies,56800.0
+2021Q1,Commercial Semi-State companies,41200.0
+2021Q1,Non commercial Semi-State companies,15600.0
+2021Q1,Total Public Sector including Semi State bodies,416600.0
+2021Q1,Total Public Sector excluding Semi State bodies,359900.0
+2021Q2,Civil service,45100.0
+2021Q2,Defence,8900.0
+2021Q2,Garda Siochana,14500.0
+2021Q2,Education,113100.0
+2021Q2,Regional bodies,35100.0
+2021Q2,Health,146900.0
+2021Q2,Semi-State companies,56400.0
+2021Q2,Commercial Semi-State companies,40900.0
+2021Q2,Non commercial Semi-State companies,15500.0
+2021Q2,Total Public Sector including Semi State bodies,420000.0
+2021Q2,Total Public Sector excluding Semi State bodies,363600.0
+2021Q3,Civil service,44700.0
+2021Q3,Defence,8900.0
+2021Q3,Garda Siochana,14700.0
+2021Q3,Education,109600.0
+2021Q3,Regional bodies,35500.0
+2021Q3,Health,149300.0
+2021Q3,Semi-State companies,56400.0
+2021Q3,Commercial Semi-State companies,40800.0
+2021Q3,Non commercial Semi-State companies,15600.0
+2021Q3,Total Public Sector including Semi State bodies,419100.0
+2021Q3,Total Public Sector excluding Semi State bodies,362700.0
+2021Q4,Civil service,44800.0
+2021Q4,Defence,8900.0
+2021Q4,Garda Siochana,14600.0
+2021Q4,Education,113300.0
+2021Q4,Regional bodies,35300.0
+2021Q4,Health,152300.0
+2021Q4,Semi-State companies,57000.0
+2021Q4,Commercial Semi-State companies,40600.0
+2021Q4,Non commercial Semi-State companies,16300.0
+2021Q4,Total Public Sector including Semi State bodies,426200.0
+2021Q4,Total Public Sector excluding Semi State bodies,369200.0
+2022Q1,Civil service,43300.0
+2022Q1,Defence,8800.0
+2022Q1,Garda Siochana,14500.0
+2022Q1,Education,111900.0
+2022Q1,Regional bodies,35100.0
+2022Q1,Health,153900.0
+2022Q1,Semi-State companies,56600.0
+2022Q1,Commercial Semi-State companies,39300.0
+2022Q1,Non commercial Semi-State companies,17300.0
+2022Q1,Total Public Sector including Semi State bodies,424200.0
+2022Q1,Total Public Sector excluding Semi State bodies,367600.0
+2022Q2,Civil service,44500.0
+2022Q2,Defence,9000.0
+2022Q2,Garda Siochana,14400.0
+2022Q2,Education,113100.0
+2022Q2,Regional bodies,35400.0
+2022Q2,Health,155000.0
+2022Q2,Semi-State companies,58400.0
+2022Q2,Commercial Semi-State companies,41600.0
+2022Q2,Non commercial Semi-State companies,16700.0
+2022Q2,Total Public Sector including Semi State bodies,429700.0
+2022Q2,Total Public Sector excluding Semi State bodies,371400.0
+2022Q3,Civil service,44800.0
+2022Q3,Defence,9000.0
+2022Q3,Garda Siochana,14300.0
+2022Q3,Education,108800.0
+2022Q3,Regional bodies,35600.0
+2022Q3,Health,168000.0
+2022Q3,Semi-State companies,59200.0
+2022Q3,Commercial Semi-State companies,43100.0
+2022Q3,Non commercial Semi-State companies,16100.0
+2022Q3,Total Public Sector including Semi State bodies,439700.0
+2022Q3,Total Public Sector excluding Semi State bodies,380500.0
+2022Q4,Civil service,45300.0
+2022Q4,Defence,9300.0
+2022Q4,Garda Siochana,14200.0
+2022Q4,Education,111300.0
+2022Q4,Regional bodies,35600.0
+2022Q4,Health,171900.0
+2022Q4,Semi-State companies,59500.0
+2022Q4,Commercial Semi-State companies,43800.0
+2022Q4,Non commercial Semi-State companies,15700.0
+2022Q4,Total Public Sector including Semi State bodies,447200.0
+2022Q4,Total Public Sector excluding Semi State bodies,387700.0
+2023Q1,Civil service,45400.0
+2023Q1,Defence,9400.0
+2023Q1,Garda Siochana,14300.0
+2023Q1,Education,111900.0
+2023Q1,Regional bodies,35700.0
+2023Q1,Health,172900.0
+2023Q1,Semi-State companies,60500.0
+2023Q1,Commercial Semi-State companies,44000.0
+2023Q1,Non commercial Semi-State companies,16600.0
+2023Q1,Total Public Sector including Semi State bodies,450000.0
+2023Q1,Total Public Sector excluding Semi State bodies,389500.0

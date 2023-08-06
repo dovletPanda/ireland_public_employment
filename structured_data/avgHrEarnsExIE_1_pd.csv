@@ -1,0 +1,672 @@
+Quarter,sector,avgHrEarnsExIE
+2008Q1,Civil service,27.78
+2008Q1,Defence,22.85
+2008Q1,Garda Siochana,23.43
+2008Q1,Education,35.19
+2008Q1,Regional bodies,24.13
+2008Q1,Health,24.28
+2008Q1,Semi-State companies,25.24
+2008Q1,Commercial Semi-State companies,24.33
+2008Q1,Non commercial Semi-State companies,28.77
+2008Q1,Total Public Sector including Semi State bodies,27.15
+2008Q1,Total Public Sector excluding Semi State bodies,27.52
+2008Q2,Civil service,26.58
+2008Q2,Defence,23.48
+2008Q2,Garda Siochana,23.93
+2008Q2,Education,35.61
+2008Q2,Regional bodies,24.21
+2008Q2,Health,25.1
+2008Q2,Semi-State companies,25.1
+2008Q2,Commercial Semi-State companies,24.0
+2008Q2,Non commercial Semi-State companies,29.16
+2008Q2,Total Public Sector including Semi State bodies,27.38
+2008Q2,Total Public Sector excluding Semi State bodies,27.82
+2008Q3,Civil service,26.4
+2008Q3,Defence,23.71
+2008Q3,Garda Siochana,23.69
+2008Q3,Education,36.41
+2008Q3,Regional bodies,24.14
+2008Q3,Health,25.25
+2008Q3,Semi-State companies,25.15
+2008Q3,Commercial Semi-State companies,24.1
+2008Q3,Non commercial Semi-State companies,28.94
+2008Q3,Total Public Sector including Semi State bodies,27.43
+2008Q3,Total Public Sector excluding Semi State bodies,27.88
+2008Q4,Civil service,27.7
+2008Q4,Defence,23.84
+2008Q4,Garda Siochana,24.16
+2008Q4,Education,36.39
+2008Q4,Regional bodies,24.68
+2008Q4,Health,26.27
+2008Q4,Semi-State companies,26.0
+2008Q4,Commercial Semi-State companies,24.97
+2008Q4,Non commercial Semi-State companies,29.79
+2008Q4,Total Public Sector including Semi State bodies,28.38
+2008Q4,Total Public Sector excluding Semi State bodies,28.82
+2009Q1,Civil service,27.71
+2009Q1,Defence,24.02
+2009Q1,Garda Siochana,24.31
+2009Q1,Education,37.53
+2009Q1,Regional bodies,24.79
+2009Q1,Health,26.0
+2009Q1,Semi-State companies,26.38
+2009Q1,Commercial Semi-State companies,25.43
+2009Q1,Non commercial Semi-State companies,30.03
+2009Q1,Total Public Sector including Semi State bodies,28.59
+2009Q1,Total Public Sector excluding Semi State bodies,28.99
+2009Q2,Civil service,27.9
+2009Q2,Defence,24.08
+2009Q2,Garda Siochana,24.37
+2009Q2,Education,37.16
+2009Q2,Regional bodies,25.89
+2009Q2,Health,26.21
+2009Q2,Semi-State companies,25.98
+2009Q2,Commercial Semi-State companies,24.82
+2009Q2,Non commercial Semi-State companies,30.47
+2009Q2,Total Public Sector including Semi State bodies,28.6
+2009Q2,Total Public Sector excluding Semi State bodies,29.08
+2009Q3,Civil service,27.44
+2009Q3,Defence,24.2
+2009Q3,Garda Siochana,24.62
+2009Q3,Education,39.91
+2009Q3,Regional bodies,25.34
+2009Q3,Health,26.16
+2009Q3,Semi-State companies,25.26
+2009Q3,Commercial Semi-State companies,23.89
+2009Q3,Non commercial Semi-State companies,30.46
+2009Q3,Total Public Sector including Semi State bodies,28.61
+2009Q3,Total Public Sector excluding Semi State bodies,29.22
+2009Q4,Civil service,27.67
+2009Q4,Defence,24.28
+2009Q4,Garda Siochana,24.92
+2009Q4,Education,38.57
+2009Q4,Regional bodies,25.45
+2009Q4,Health,26.53
+2009Q4,Semi-State companies,25.32
+2009Q4,Commercial Semi-State companies,23.95
+2009Q4,Non commercial Semi-State companies,30.66
+2009Q4,Total Public Sector including Semi State bodies,28.67
+2009Q4,Total Public Sector excluding Semi State bodies,29.23
+2010Q1,Civil service,26.21
+2010Q1,Defence,23.06
+2010Q1,Garda Siochana,23.97
+2010Q1,Education,37.39
+2010Q1,Regional bodies,24.06
+2010Q1,Health,24.34
+2010Q1,Semi-State companies,25.61
+2010Q1,Commercial Semi-State companies,24.69
+2010Q1,Non commercial Semi-State companies,28.9
+2010Q1,Total Public Sector including Semi State bodies,27.41
+2010Q1,Total Public Sector excluding Semi State bodies,27.71
+2010Q2,Civil service,25.99
+2010Q2,Defence,22.57
+2010Q2,Garda Siochana,23.86
+2010Q2,Education,37.29
+2010Q2,Regional bodies,24.43
+2010Q2,Health,24.8
+2010Q2,Semi-State companies,25.59
+2010Q2,Commercial Semi-State companies,24.46
+2010Q2,Non commercial Semi-State companies,29.67
+2010Q2,Total Public Sector including Semi State bodies,27.56
+2010Q2,Total Public Sector excluding Semi State bodies,27.89
+2010Q3,Civil service,25.75
+2010Q3,Defence,22.36
+2010Q3,Garda Siochana,24.09
+2010Q3,Education,37.87
+2010Q3,Regional bodies,23.57
+2010Q3,Health,24.62
+2010Q3,Semi-State companies,25.07
+2010Q3,Commercial Semi-State companies,24.02
+2010Q3,Non commercial Semi-State companies,29.31
+2010Q3,Total Public Sector including Semi State bodies,27.36
+2010Q3,Total Public Sector excluding Semi State bodies,27.75
+2010Q4,Civil service,26.32
+2010Q4,Defence,22.41
+2010Q4,Garda Siochana,24.19
+2010Q4,Education,37.2
+2010Q4,Regional bodies,24.29
+2010Q4,Health,24.82
+2010Q4,Semi-State companies,24.9
+2010Q4,Commercial Semi-State companies,23.98
+2010Q4,Non commercial Semi-State companies,29.09
+2010Q4,Total Public Sector including Semi State bodies,27.7
+2010Q4,Total Public Sector excluding Semi State bodies,28.21
+2011Q1,Civil service,25.79
+2011Q1,Defence,22.25
+2011Q1,Garda Siochana,24.34
+2011Q1,Education,37.44
+2011Q1,Regional bodies,24.15
+2011Q1,Health,24.86
+2011Q1,Semi-State companies,25.35
+2011Q1,Commercial Semi-State companies,24.44
+2011Q1,Non commercial Semi-State companies,29.17
+2011Q1,Total Public Sector including Semi State bodies,27.66
+2011Q1,Total Public Sector excluding Semi State bodies,28.07
+2011Q2,Civil service,25.82
+2011Q2,Defence,22.18
+2011Q2,Garda Siochana,24.86
+2011Q2,Education,37.71
+2011Q2,Regional bodies,23.56
+2011Q2,Health,24.84
+2011Q2,Semi-State companies,25.22
+2011Q2,Commercial Semi-State companies,24.23
+2011Q2,Non commercial Semi-State companies,29.33
+2011Q2,Total Public Sector including Semi State bodies,27.71
+2011Q2,Total Public Sector excluding Semi State bodies,28.14
+2011Q3,Civil service,25.94
+2011Q3,Defence,23.0
+2011Q3,Garda Siochana,24.43
+2011Q3,Education,37.94
+2011Q3,Regional bodies,22.86
+2011Q3,Health,24.93
+2011Q3,Semi-State companies,25.48
+2011Q3,Commercial Semi-State companies,24.61
+2011Q3,Non commercial Semi-State companies,28.94
+2011Q3,Total Public Sector including Semi State bodies,27.56
+2011Q3,Total Public Sector excluding Semi State bodies,27.93
+2011Q4,Civil service,26.42
+2011Q4,Defence,22.95
+2011Q4,Garda Siochana,24.36
+2011Q4,Education,38.13
+2011Q4,Regional bodies,22.86
+2011Q4,Health,25.01
+2011Q4,Semi-State companies,26.07
+2011Q4,Commercial Semi-State companies,25.11
+2011Q4,Non commercial Semi-State companies,29.79
+2011Q4,Total Public Sector including Semi State bodies,27.9
+2011Q4,Total Public Sector excluding Semi State bodies,28.2
+2012Q1,Civil service,26.24
+2012Q1,Defence,22.78
+2012Q1,Garda Siochana,24.5
+2012Q1,Education,37.94
+2012Q1,Regional bodies,23.0
+2012Q1,Health,24.87
+2012Q1,Semi-State companies,26.0
+2012Q1,Commercial Semi-State companies,24.82
+2012Q1,Non commercial Semi-State companies,30.23
+2012Q1,Total Public Sector including Semi State bodies,27.71
+2012Q1,Total Public Sector excluding Semi State bodies,27.99
+2012Q2,Civil service,26.14
+2012Q2,Defence,22.83
+2012Q2,Garda Siochana,24.48
+2012Q2,Education,38.4
+2012Q2,Regional bodies,23.08
+2012Q2,Health,24.93
+2012Q2,Semi-State companies,25.94
+2012Q2,Commercial Semi-State companies,24.84
+2012Q2,Non commercial Semi-State companies,29.96
+2012Q2,Total Public Sector including Semi State bodies,27.78
+2012Q2,Total Public Sector excluding Semi State bodies,28.1
+2012Q3,Civil service,25.94
+2012Q3,Defence,22.82
+2012Q3,Garda Siochana,24.61
+2012Q3,Education,38.15
+2012Q3,Regional bodies,23.07
+2012Q3,Health,24.92
+2012Q3,Semi-State companies,25.42
+2012Q3,Commercial Semi-State companies,24.23
+2012Q3,Non commercial Semi-State companies,29.97
+2012Q3,Total Public Sector including Semi State bodies,27.61
+2012Q3,Total Public Sector excluding Semi State bodies,27.98
+2012Q4,Civil service,26.46
+2012Q4,Defence,22.47
+2012Q4,Garda Siochana,24.75
+2012Q4,Education,38.68
+2012Q4,Regional bodies,23.27
+2012Q4,Health,24.93
+2012Q4,Semi-State companies,25.53
+2012Q4,Commercial Semi-State companies,24.23
+2012Q4,Non commercial Semi-State companies,30.14
+2012Q4,Total Public Sector including Semi State bodies,27.83
+2012Q4,Total Public Sector excluding Semi State bodies,28.22
+2013Q1,Civil service,26.47
+2013Q1,Defence,22.2
+2013Q1,Garda Siochana,25.0
+2013Q1,Education,38.37
+2013Q1,Regional bodies,23.24
+2013Q1,Health,24.92
+2013Q1,Semi-State companies,25.59
+2013Q1,Commercial Semi-State companies,24.37
+2013Q1,Non commercial Semi-State companies,30.24
+2013Q1,Total Public Sector including Semi State bodies,27.79
+2013Q1,Total Public Sector excluding Semi State bodies,28.18
+2013Q2,Civil service,26.41
+2013Q2,Defence,22.5
+2013Q2,Garda Siochana,24.94
+2013Q2,Education,38.51
+2013Q2,Regional bodies,23.09
+2013Q2,Health,25.06
+2013Q2,Semi-State companies,25.66
+2013Q2,Commercial Semi-State companies,24.48
+2013Q2,Non commercial Semi-State companies,30.14
+2013Q2,Total Public Sector including Semi State bodies,27.96
+2013Q2,Total Public Sector excluding Semi State bodies,28.35
+2013Q3,Civil service,24.68
+2013Q3,Defence,22.38
+2013Q3,Garda Siochana,25.07
+2013Q3,Education,37.49
+2013Q3,Regional bodies,22.63
+2013Q3,Health,24.08
+2013Q3,Semi-State companies,25.28
+2013Q3,Commercial Semi-State companies,24.51
+2013Q3,Non commercial Semi-State companies,28.43
+2013Q3,Total Public Sector including Semi State bodies,26.97
+2013Q3,Total Public Sector excluding Semi State bodies,27.27
+2013Q4,Civil service,25.0
+2013Q4,Defence,23.89
+2013Q4,Garda Siochana,24.9
+2013Q4,Education,37.53
+2013Q4,Regional bodies,22.41
+2013Q4,Health,24.03
+2013Q4,Semi-State companies,25.51
+2013Q4,Commercial Semi-State companies,24.66
+2013Q4,Non commercial Semi-State companies,28.7
+2013Q4,Total Public Sector including Semi State bodies,27.1
+2013Q4,Total Public Sector excluding Semi State bodies,27.38
+2014Q1,Civil service,25.09
+2014Q1,Defence,21.89
+2014Q1,Garda Siochana,25.03
+2014Q1,Education,37.67
+2014Q1,Regional bodies,22.48
+2014Q1,Health,24.02
+2014Q1,Semi-State companies,25.63
+2014Q1,Commercial Semi-State companies,24.85
+2014Q1,Non commercial Semi-State companies,27.91
+2014Q1,Total Public Sector including Semi State bodies,27.18
+2014Q1,Total Public Sector excluding Semi State bodies,27.47
+2014Q2,Civil service,24.93
+2014Q2,Defence,22.02
+2014Q2,Garda Siochana,25.06
+2014Q2,Education,37.79
+2014Q2,Regional bodies,22.51
+2014Q2,Health,24.02
+2014Q2,Semi-State companies,25.46
+2014Q2,Commercial Semi-State companies,24.69
+2014Q2,Non commercial Semi-State companies,27.62
+2014Q2,Total Public Sector including Semi State bodies,27.19
+2014Q2,Total Public Sector excluding Semi State bodies,27.52
+2014Q3,Civil service,24.75
+2014Q3,Defence,22.06
+2014Q3,Garda Siochana,25.15
+2014Q3,Education,37.39
+2014Q3,Regional bodies,22.33
+2014Q3,Health,23.94
+2014Q3,Semi-State companies,25.53
+2014Q3,Commercial Semi-State companies,24.7
+2014Q3,Non commercial Semi-State companies,27.91
+2014Q3,Total Public Sector including Semi State bodies,26.98
+2014Q3,Total Public Sector excluding Semi State bodies,27.25
+2014Q4,Civil service,24.97
+2014Q4,Defence,21.89
+2014Q4,Garda Siochana,24.93
+2014Q4,Education,37.27
+2014Q4,Regional bodies,22.65
+2014Q4,Health,23.95
+2014Q4,Semi-State companies,25.47
+2014Q4,Commercial Semi-State companies,24.6
+2014Q4,Non commercial Semi-State companies,27.92
+2014Q4,Total Public Sector including Semi State bodies,27.13
+2014Q4,Total Public Sector excluding Semi State bodies,27.44
+2015Q1,Civil service,25.09
+2015Q1,Defence,22.08
+2015Q1,Garda Siochana,24.92
+2015Q1,Education,37.07
+2015Q1,Regional bodies,22.49
+2015Q1,Health,23.94
+2015Q1,Semi-State companies,25.56
+2015Q1,Commercial Semi-State companies,24.72
+2015Q1,Non commercial Semi-State companies,27.95
+2015Q1,Total Public Sector including Semi State bodies,27.06
+2015Q1,Total Public Sector excluding Semi State bodies,27.35
+2015Q2,Civil service,24.91
+2015Q2,Defence,22.03
+2015Q2,Garda Siochana,24.86
+2015Q2,Education,37.62
+2015Q2,Regional bodies,22.48
+2015Q2,Health,23.86
+2015Q2,Semi-State companies,25.31
+2015Q2,Commercial Semi-State companies,24.37
+2015Q2,Non commercial Semi-State companies,27.88
+2015Q2,Total Public Sector including Semi State bodies,26.97
+2015Q2,Total Public Sector excluding Semi State bodies,27.28
+2015Q3,Civil service,24.57
+2015Q3,Defence,22.14
+2015Q3,Garda Siochana,25.01
+2015Q3,Education,37.55
+2015Q3,Regional bodies,22.34
+2015Q3,Health,23.62
+2015Q3,Semi-State companies,25.81
+2015Q3,Commercial Semi-State companies,25.08
+2015Q3,Non commercial Semi-State companies,27.88
+2015Q3,Total Public Sector including Semi State bodies,26.87
+2015Q3,Total Public Sector excluding Semi State bodies,27.07
+2015Q4,Civil service,24.93
+2015Q4,Defence,21.93
+2015Q4,Garda Siochana,25.05
+2015Q4,Education,37.59
+2015Q4,Regional bodies,22.74
+2015Q4,Health,23.87
+2015Q4,Semi-State companies,25.69
+2015Q4,Commercial Semi-State companies,24.88
+2015Q4,Non commercial Semi-State companies,28.09
+2015Q4,Total Public Sector including Semi State bodies,27.09
+2015Q4,Total Public Sector excluding Semi State bodies,27.34
+2016Q1,Civil service,24.4
+2016Q1,Defence,21.97
+2016Q1,Garda Siochana,24.86
+2016Q1,Education,37.28
+2016Q1,Regional bodies,22.71
+2016Q1,Health,23.72
+2016Q1,Semi-State companies,25.93
+2016Q1,Commercial Semi-State companies,25.35
+2016Q1,Non commercial Semi-State companies,27.76
+2016Q1,Total Public Sector including Semi State bodies,27.03
+2016Q1,Total Public Sector excluding Semi State bodies,27.24
+2016Q2,Civil service,23.58
+2016Q2,Defence,21.83
+2016Q2,Garda Siochana,25.04
+2016Q2,Education,37.51
+2016Q2,Regional bodies,22.75
+2016Q2,Health,23.9
+2016Q2,Semi-State companies,25.63
+2016Q2,Commercial Semi-State companies,24.98
+2016Q2,Non commercial Semi-State companies,27.63
+2016Q2,Total Public Sector including Semi State bodies,26.91
+2016Q2,Total Public Sector excluding Semi State bodies,27.13
+2016Q3,Civil service,24.19
+2016Q3,Defence,21.93
+2016Q3,Garda Siochana,24.97
+2016Q3,Education,37.57
+2016Q3,Regional bodies,22.37
+2016Q3,Health,23.68
+2016Q3,Semi-State companies,25.77
+2016Q3,Commercial Semi-State companies,25.29
+2016Q3,Non commercial Semi-State companies,27.28
+2016Q3,Total Public Sector including Semi State bodies,26.93
+2016Q3,Total Public Sector excluding Semi State bodies,27.14
+2016Q4,Civil service,24.43
+2016Q4,Defence,21.86
+2016Q4,Garda Siochana,24.78
+2016Q4,Education,37.09
+2016Q4,Regional bodies,22.75
+2016Q4,Health,23.86
+2016Q4,Semi-State companies,26.11
+2016Q4,Commercial Semi-State companies,25.69
+2016Q4,Non commercial Semi-State companies,27.37
+2016Q4,Total Public Sector including Semi State bodies,27.08
+2016Q4,Total Public Sector excluding Semi State bodies,27.26
+2017Q1,Civil service,24.57
+2017Q1,Defence,22.02
+2017Q1,Garda Siochana,24.93
+2017Q1,Education,37.29
+2017Q1,Regional bodies,22.45
+2017Q1,Health,23.78
+2017Q1,Semi-State companies,26.4
+2017Q1,Commercial Semi-State companies,26.08
+2017Q1,Non commercial Semi-State companies,27.41
+2017Q1,Total Public Sector including Semi State bodies,27.16
+2017Q1,Total Public Sector excluding Semi State bodies,27.29
+2017Q2,Civil service,25.19
+2017Q2,Defence,21.73
+2017Q2,Garda Siochana,25.5
+2017Q2,Education,38.13
+2017Q2,Regional bodies,22.85
+2017Q2,Health,24.19
+2017Q2,Semi-State companies,26.49
+2017Q2,Commercial Semi-State companies,26.05
+2017Q2,Non commercial Semi-State companies,27.74
+2017Q2,Total Public Sector including Semi State bodies,27.51
+2017Q2,Total Public Sector excluding Semi State bodies,27.7
+2017Q3,Civil service,24.48
+2017Q3,Defence,22.85
+2017Q3,Garda Siochana,25.58
+2017Q3,Education,39.11
+2017Q3,Regional bodies,22.27
+2017Q3,Health,24.25
+2017Q3,Semi-State companies,26.45
+2017Q3,Commercial Semi-State companies,26.02
+2017Q3,Non commercial Semi-State companies,27.72
+2017Q3,Total Public Sector including Semi State bodies,27.72
+2017Q3,Total Public Sector excluding Semi State bodies,27.95
+2017Q4,Civil service,24.76
+2017Q4,Defence,22.96
+2017Q4,Garda Siochana,25.7
+2017Q4,Education,38.69
+2017Q4,Regional bodies,22.32
+2017Q4,Health,24.36
+2017Q4,Semi-State companies,26.54
+2017Q4,Commercial Semi-State companies,26.09
+2017Q4,Non commercial Semi-State companies,27.77
+2017Q4,Total Public Sector including Semi State bodies,27.75
+2017Q4,Total Public Sector excluding Semi State bodies,27.97
+2018Q1,Civil service,24.78
+2018Q1,Defence,22.97
+2018Q1,Garda Siochana,25.59
+2018Q1,Education,39.47
+2018Q1,Regional bodies,22.68
+2018Q1,Health,24.59
+2018Q1,Semi-State companies,26.93
+2018Q1,Commercial Semi-State companies,26.53
+2018Q1,Non commercial Semi-State companies,27.99
+2018Q1,Total Public Sector including Semi State bodies,28.06
+2018Q1,Total Public Sector excluding Semi State bodies,28.25
+2018Q2,Civil service,24.94
+2018Q2,Defence,23.31
+2018Q2,Garda Siochana,25.66
+2018Q2,Education,39.61
+2018Q2,Regional bodies,22.63
+2018Q2,Health,24.7
+2018Q2,Semi-State companies,26.96
+2018Q2,Commercial Semi-State companies,26.54
+2018Q2,Non commercial Semi-State companies,28.1
+2018Q2,Total Public Sector including Semi State bodies,28.1
+2018Q2,Total Public Sector excluding Semi State bodies,28.31
+2018Q3,Civil service,24.49
+2018Q3,Defence,23.38
+2018Q3,Garda Siochana,25.85
+2018Q3,Education,40.2
+2018Q3,Regional bodies,22.58
+2018Q3,Health,24.63
+2018Q3,Semi-State companies,26.83
+2018Q3,Commercial Semi-State companies,26.46
+2018Q3,Non commercial Semi-State companies,27.85
+2018Q3,Total Public Sector including Semi State bodies,28.31
+2018Q3,Total Public Sector excluding Semi State bodies,28.58
+2018Q4,Civil service,25.13
+2018Q4,Defence,23.58
+2018Q4,Garda Siochana,25.44
+2018Q4,Education,39.83
+2018Q4,Regional bodies,22.81
+2018Q4,Health,24.81
+2018Q4,Semi-State companies,26.93
+2018Q4,Commercial Semi-State companies,26.46
+2018Q4,Non commercial Semi-State companies,28.13
+2018Q4,Total Public Sector including Semi State bodies,28.39
+2018Q4,Total Public Sector excluding Semi State bodies,28.64
+2019Q1,Civil service,25.02
+2019Q1,Defence,23.47
+2019Q1,Garda Siochana,25.48
+2019Q1,Education,39.79
+2019Q1,Regional bodies,22.86
+2019Q1,Health,24.75
+2019Q1,Semi-State companies,27.16
+2019Q1,Commercial Semi-State companies,26.82
+2019Q1,Non commercial Semi-State companies,28.06
+2019Q1,Total Public Sector including Semi State bodies,28.35
+2019Q1,Total Public Sector excluding Semi State bodies,28.57
+2019Q2,Civil service,24.87
+2019Q2,Defence,23.61
+2019Q2,Garda Siochana,25.76
+2019Q2,Education,40.26
+2019Q2,Regional bodies,22.74
+2019Q2,Health,25.05
+2019Q2,Semi-State companies,26.97
+2019Q2,Commercial Semi-State companies,26.46
+2019Q2,Non commercial Semi-State companies,28.33
+2019Q2,Total Public Sector including Semi State bodies,28.42
+2019Q2,Total Public Sector excluding Semi State bodies,28.69
+2019Q3,Civil service,24.67
+2019Q3,Defence,23.87
+2019Q3,Garda Siochana,26.1
+2019Q3,Education,40.74
+2019Q3,Regional bodies,22.65
+2019Q3,Health,25.13
+2019Q3,Semi-State companies,27.42
+2019Q3,Commercial Semi-State companies,26.98
+2019Q3,Non commercial Semi-State companies,28.56
+2019Q3,Total Public Sector including Semi State bodies,28.68
+2019Q3,Total Public Sector excluding Semi State bodies,28.91
+2019Q4,Civil service,25.31
+2019Q4,Defence,24.85
+2019Q4,Garda Siochana,25.99
+2019Q4,Education,40.87
+2019Q4,Regional bodies,23.04
+2019Q4,Health,25.9
+2019Q4,Semi-State companies,27.62
+2019Q4,Commercial Semi-State companies,26.91
+2019Q4,Non commercial Semi-State companies,29.26
+2019Q4,Total Public Sector including Semi State bodies,29.26
+2019Q4,Total Public Sector excluding Semi State bodies,29.54
+2020Q1,Civil service,25.01
+2020Q1,Defence,24.35
+2020Q1,Garda Siochana,25.93
+2020Q1,Education,40.88
+2020Q1,Regional bodies,23.16
+2020Q1,Health,26.0
+2020Q1,Semi-State companies,27.68
+2020Q1,Commercial Semi-State companies,27.06
+2020Q1,Non commercial Semi-State companies,29.27
+2020Q1,Total Public Sector including Semi State bodies,29.27
+2020Q1,Total Public Sector excluding Semi State bodies,29.56
+2020Q2,Civil service,24.97
+2020Q2,Defence,24.69
+2020Q2,Garda Siochana,26.28
+2020Q2,Education,41.21
+2020Q2,Regional bodies,23.08
+2020Q2,Health,26.95
+2020Q2,Semi-State companies,28.06
+2020Q2,Commercial Semi-State companies,27.49
+2020Q2,Non commercial Semi-State companies,29.36
+2020Q2,Total Public Sector including Semi State bodies,29.8
+2020Q2,Total Public Sector excluding Semi State bodies,30.1
+2020Q3,Civil service,24.74
+2020Q3,Defence,24.62
+2020Q3,Garda Siochana,26.05
+2020Q3,Education,41.88
+2020Q3,Regional bodies,23.19
+2020Q3,Health,26.36
+2020Q3,Semi-State companies,27.67
+2020Q3,Commercial Semi-State companies,26.95
+2020Q3,Non commercial Semi-State companies,29.51
+2020Q3,Total Public Sector including Semi State bodies,29.37
+2020Q3,Total Public Sector excluding Semi State bodies,29.7
+2020Q4,Civil service,25.83
+2020Q4,Defence,25.31
+2020Q4,Garda Siochana,26.77
+2020Q4,Education,42.21
+2020Q4,Regional bodies,23.69
+2020Q4,Health,27.21
+2020Q4,Semi-State companies,27.85
+2020Q4,Commercial Semi-State companies,27.43
+2020Q4,Non commercial Semi-State companies,28.85
+2020Q4,Total Public Sector including Semi State bodies,30.07
+2020Q4,Total Public Sector excluding Semi State bodies,30.47
+2021Q1,Civil service,26.67
+2021Q1,Defence,25.66
+2021Q1,Garda Siochana,27.74
+2021Q1,Education,42.41
+2021Q1,Regional bodies,24.03
+2021Q1,Health,27.22
+2021Q1,Semi-State companies,27.97
+2021Q1,Commercial Semi-State companies,27.04
+2021Q1,Non commercial Semi-State companies,29.95
+2021Q1,Total Public Sector including Semi State bodies,30.66
+2021Q1,Total Public Sector excluding Semi State bodies,31.12
+2021Q2,Civil service,27.47
+2021Q2,Defence,25.53
+2021Q2,Garda Siochana,27.93
+2021Q2,Education,42.4
+2021Q2,Regional bodies,23.89
+2021Q2,Health,26.64
+2021Q2,Semi-State companies,28.64
+2021Q2,Commercial Semi-State companies,28.0
+2021Q2,Non commercial Semi-State companies,30.05
+2021Q2,Total Public Sector including Semi State bodies,30.56
+2021Q2,Total Public Sector excluding Semi State bodies,30.88
+2021Q3,Civil service,27.25
+2021Q3,Defence,26.09
+2021Q3,Garda Siochana,27.6
+2021Q3,Education,43.0
+2021Q3,Regional bodies,23.81
+2021Q3,Health,27.31
+2021Q3,Semi-State companies,28.13
+2021Q3,Commercial Semi-State companies,27.36
+2021Q3,Non commercial Semi-State companies,29.9
+2021Q3,Total Public Sector including Semi State bodies,30.87
+2021Q3,Total Public Sector excluding Semi State bodies,31.35
+2021Q4,Civil service,27.54
+2021Q4,Defence,25.83
+2021Q4,Garda Siochana,27.53
+2021Q4,Education,42.64
+2021Q4,Regional bodies,24.4
+2021Q4,Health,27.4
+2021Q4,Semi-State companies,28.57
+2021Q4,Commercial Semi-State companies,27.51
+2021Q4,Non commercial Semi-State companies,31.0
+2021Q4,Total Public Sector including Semi State bodies,30.91
+2021Q4,Total Public Sector excluding Semi State bodies,31.3
+2022Q1,Civil service,27.38
+2022Q1,Defence,26.7
+2022Q1,Garda Siochana,28.03
+2022Q1,Education,42.38
+2022Q1,Regional bodies,24.7
+2022Q1,Health,26.88
+2022Q1,Semi-State companies,28.61
+2022Q1,Commercial Semi-State companies,27.66
+2022Q1,Non commercial Semi-State companies,30.85
+2022Q1,Total Public Sector including Semi State bodies,30.78
+2022Q1,Total Public Sector excluding Semi State bodies,31.15
+2022Q2,Civil service,27.31
+2022Q2,Defence,26.14
+2022Q2,Garda Siochana,28.78
+2022Q2,Education,43.19
+2022Q2,Regional bodies,25.07
+2022Q2,Health,26.99
+2022Q2,Semi-State companies,28.3
+2022Q2,Commercial Semi-State companies,27.59
+2022Q2,Non commercial Semi-State companies,30.15
+2022Q2,Total Public Sector including Semi State bodies,31.01
+2022Q2,Total Public Sector excluding Semi State bodies,31.49
+2022Q3,Civil service,27.08
+2022Q3,Defence,26.17
+2022Q3,Garda Siochana,28.41
+2022Q3,Education,43.54
+2022Q3,Regional bodies,25.23
+2022Q3,Health,27.64
+2022Q3,Semi-State companies,28.92
+2022Q3,Commercial Semi-State companies,28.3
+2022Q3,Non commercial Semi-State companies,30.34
+2022Q3,Total Public Sector including Semi State bodies,30.96
+2022Q3,Total Public Sector excluding Semi State bodies,31.31
+2022Q4,Civil service,30.17
+2022Q4,Defence,28.53
+2022Q4,Garda Siochana,29.9
+2022Q4,Education,45.1
+2022Q4,Regional bodies,26.17
+2022Q4,Health,29.67
+2022Q4,Semi-State companies,29.96
+2022Q4,Commercial Semi-State companies,28.4
+2022Q4,Non commercial Semi-State companies,33.71
+2022Q4,Total Public Sector including Semi State bodies,32.63
+2022Q4,Total Public Sector excluding Semi State bodies,33.1
+2023Q1,Civil service,28.88
+2023Q1,Defence,27.14
+2023Q1,Garda Siochana,29.91
+2023Q1,Education,45.14
+2023Q1,Regional bodies,25.97
+2023Q1,Health,28.88
+2023Q1,Semi-State companies,29.62
+2023Q1,Commercial Semi-State companies,28.47
+2023Q1,Non commercial Semi-State companies,32.24
+2023Q1,Total Public Sector including Semi State bodies,32.26
+2023Q1,Total Public Sector excluding Semi State bodies,32.71
